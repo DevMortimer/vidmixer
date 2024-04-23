@@ -1,0 +1,8 @@
+#+TITLE: vidmixer
+
+* Building
+1. You can build the app by running ~make~ .
+2. ~./vidmixer~
+
+* Running
+You can run the app by ~make run~ which just runs ~make~ and runs the binary.
